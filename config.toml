@@ -1,11 +1,22 @@
 # The URL the site will be built for
-base_url = "https://plaublin.pakupaku.me"
+base_url = "https://plaublin.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
+
+theme = "papermod"
+
+author = "Pierre Louis Aublin"
+title = "My research"
+generate_feed = true
+minify_html = true
+
+taxonomies = [
+    { name = "tags", feed = true }
+]
 
 [markdown]
 # Whether to do syntax highlighting
@@ -14,3 +25,36 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+[extra.papermod]
+title = "Pierre Louis Aublin"
+default_theme = "auto"
+theme = "light"
+language_direction = "auto"
+keywords = []
+#keywords = ["keyword1", "keyword2", "keyword3"]
+show_theme_toggle = true
+show_scroll_to_top = true
+show_code_copy_buttons = true
+show_reading_time = true
+show_word_count = false
+show_post_nav_links = true
+show_post_meta = true
+default_toc_open = false
+edit_post_url = "https://github.com/plaublin/plaublin.github.io/tree/main"
+copyright = ""
+date_format = "%Y-%m-%d"
+navigation = [
+    { url = "$BASE_URL/archive", title = "Archive" },
+    { url = "$BASE_URL/tags", title = "Tags" },
+]
+
+home_title = "Distributed Systems Research"
+home_content = "Welcome to my research blog!"
+social_icons = [
+    { url = "https://www.iijlab.net/members/pierrelouis.html", title = "IIJ Research Laboratory", icon = "" },
+    { url = "https://scholar.google.com/citations?user=wLt2MyIAAAAJ&hl=ja&oi=ao", title = "Google scholar", icon = "googlescholar" },
+    { url = "https://github.com/plaublin", title = "GitHub", icon = "github" },
+    { url = "mailto:pierrelouis@iij.ad.jp", title = "Email", icon = "email" },
+    { url = "$BASE_URL/atom.xml", title = "RSS", icon = "rss" },
+]
