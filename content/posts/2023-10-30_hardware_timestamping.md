@@ -6,11 +6,9 @@ date = "2023-10-30"
 tags = ["NIC", "network latency"]
 +++
 
-How to measure network latency using hardware timestamps.
+How to measure network latency using hardware timestamps?
 
 <!-- more -->
-
-## Hardware timestamping
 
 Network interfaces become smarter and smarter, being able to execute
 functionalities traditionaly managed by the OS. When wanting to develop such a
