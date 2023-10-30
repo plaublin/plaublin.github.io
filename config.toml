@@ -49,8 +49,8 @@ navigation = [
     { url = "$BASE_URL/tags", title = "Tags" },
 ]
 
-home_title = "Distributed Systems Research"
-home_content = "Welcome to my research blog!"
+home_title = "Internet Systems Research"
+home_content = "I am interested in the security and reliability of Internet systems."
 social_icons = [
     { url = "https://www.iijlab.net/members/pierrelouis.html", title = "IIJ Research Laboratory", icon = "" },
     { url = "https://scholar.google.com/citations?user=wLt2MyIAAAAJ&hl=ja&oi=ao", title = "Google scholar", icon = "googlescholar" },
