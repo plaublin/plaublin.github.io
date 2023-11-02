@@ -27,3 +27,6 @@ a blog article so that everyone can make use of this functionality:
 
 - [In English](https://eng-blog.iij.ad.jp/archives/21198)
 - [In Japanese](https://eng-blog.iij.ad.jp/archives/21208)
+
+An appendix of this article can be found
+[here](https://www.arnevogel.com/network-latency-measurements/).
