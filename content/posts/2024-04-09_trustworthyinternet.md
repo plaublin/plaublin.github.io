@@ -78,7 +78,7 @@ Our approach is based on our previous knowledge in fault-tolerance and
 security. More precisely, we are working on improving the fault-tolerance and
 security of existing Internet applications, both on the server and client side.
 Nevertheless, our aim is to empower Internet users: our solutions should be
-benefical for the users more than for the companies providing such services.
+benefits users more than for the companies providing such services.
 
 Security and fault-tolerance are generally costly techniques that can decrease
 the performance of an application. We are exploring *practical* solutions that
@@ -115,7 +115,7 @@ Notable projects are:
 - Endbox is a scalable and secure middlebox framework. It executes middlebox
   functions inside a Trusted Execution Environment on client machines. Despite
   its decentralised model, EndBox's middlebox functions remain maintainable,
-  practical and scalabe.
+  practical and scalable.
 
 # What's next?
 
