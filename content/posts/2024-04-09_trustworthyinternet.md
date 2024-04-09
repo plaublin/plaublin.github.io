@@ -1,6 +1,6 @@
 +++
 title = "Making Internet Applications Trustworthy"
-date = "2023-11-02"
+date = "2024-04-08"
 
 [taxonomies]
 tags = ["internet, security, dependability"]
@@ -98,7 +98,7 @@ solutions](https://news.mit.edu/2022/how-can-we-reduce-carbon-footprint-global-c
 
 My past research works have addressed this project goal in several ways, as can be seen in the figure below.
 
-![Past research](images/2024-04-09_pastresearch.jpg)
+![Past research](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-04-09_pastresearch.jpg)
 
 Notable projects are:
 - RBFT, Next 700 are Byzantine Fault tolerant protocols designed to
