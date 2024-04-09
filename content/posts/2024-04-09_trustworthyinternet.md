@@ -98,7 +98,7 @@ solutions](https://news.mit.edu/2022/how-can-we-reduce-carbon-footprint-global-c
 
 My past research works have addressed this project goal in several ways, as can be seen in the figure below.
 
-![Past research](2024-04-09_pastresearch.jpg)
+![Past research](images/2024-04-09_pastresearch.jpg)
 
 Notable projects are:
 - RBFT, Next 700 are Byzantine Fault tolerant protocols designed to
