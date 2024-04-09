@@ -77,7 +77,7 @@ Our goal is is to make Internet applications trustworthy, i.e.,
 Our approach is based on our previous knowledge in fault-tolerance and
 security. More precisely, we are working on improving the fault-tolerance and
 security of existing Internet applications, both on the server and client side.
-Nevertheless, our aim is to empower Internet users: our solutions should be
+Nevertheless, our aim is to empower Internet users: our solutions should
 benefits users more than for the companies providing such services.
 
 Security and fault-tolerance are generally costly techniques that can decrease
