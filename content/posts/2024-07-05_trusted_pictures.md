@@ -1,5 +1,5 @@
 +++
-title = "Development on a SiFive HiFive1 RevB in 2024"
+title = "Toward Trusted Pictures to Combat Fake News"
 date = "2024-07-05"
 
 [taxonomies]
