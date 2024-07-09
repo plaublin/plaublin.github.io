@@ -47,9 +47,9 @@ of an image.
 
 Unfortunately, these tools are not sufficient, as we show with the following
 three images:
-![WWF deforestation](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-07-05_wwf)
-![Kiss-in protest](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-07-05_kissin)
-![Rhein II](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-07-05_rheinII)
+![WWF deforestation](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-07-05_wwf.jpg)
+![Kiss-in protest](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-07-05_kissin.jpg)
+![Rhein II](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-07-05_rheinII.jpg)
 
 The first image originates from a [WWF contest in
 2019](https://twitter.com/climateconco/status/1087550447005646849/photo/1). It
@@ -165,7 +165,7 @@ to Serelay servers (which amount to 15kB only according to them). By leveraging
 their SDK, other users can then check the image authenticity.
 The figure below shows one such example.
 
-![Serelay dashboard](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-07-05_serelay.png)
+![Serelay dashboard](https://raw.githubusercontent.com/plaublin/plaublin.github.io/main/static/images/2024-07-05_serelay.jpg)
 
 Similarly to CAI, users need to take images with a special camera (in this
 case, Serelay smartphones application). However, Serelay does not embed the
